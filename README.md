@@ -293,7 +293,7 @@ This section explains key architectural choices that differentiate the SDK from 
 -----
 
 ## Contributing
-We welcome community contributions! Please feel free to open an [issue](https://github.com/IvanTurko) or submit a Pull Request.
+We welcome community contributions! Please feel free to open an [issue](https://github.com/IvanTurko/mexc-sdk-go/issues) or submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
